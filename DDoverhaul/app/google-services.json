@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205145342951",
+    "project_id": "dandd-f485c",
+    "storage_bucket": "dandd-f485c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205145342951:android:3e23ea1094075ad0cff342",
+        "android_client_info": {
+          "package_name": "com.example.ddoverhaul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205145342951-d3mp4t07h9mpfh5nn01vd9f24af3on24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApT4uIlHkLFh0xSuV0-3Kem2lC4HIXLYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205145342951-d3mp4t07h9mpfh5nn01vd9f24af3on24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

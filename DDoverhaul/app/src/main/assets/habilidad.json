@@ -1,0 +1,72 @@
+[
+  {
+    "coste": 15,
+    "danio": 80,
+    "descripcion": "Lluvia de meteoritos",
+    "icono": "image_basic_hit",
+    "id": 0,
+    "nombre": "Meteoro",
+    "porcentaje": 0,
+    "problema_estado": ""
+  },
+  {
+    "coste": 10,
+    "danio": 5,
+    "descripcion": "Mitiga un 15% de daño",
+    "icono": "image_earth",
+    "id": 1,
+    "nombre": "Protección",
+    "porcentaje": 0,
+    "problema_estado": ""
+  },
+  {
+    "coste": 5,
+    "danio": 10,
+    "descripcion": "Una lluvia de rayos",
+    "icono": "image_electric",
+    "id": 2,
+    "nombre": "Electrocutar",
+    "porcentaje": 20,
+    "problema_estado": "Aturdido"
+  },
+  {
+    "coste": 25,
+    "danio": 30,
+    "descripcion": "Lanza una llamarada con la posibilidad de quemar al enemigo",
+    "icono": "image_fire",
+    "id": 3,
+    "nombre": "Llamarada",
+    "porcentaje": 30,
+    "problema_estado": "Quemado"
+  },
+  {
+    "coste": 10,
+    "danio": 0,
+    "descripcion": "Cura 60 puntos a la vida",
+    "icono": "image_heal",
+    "id": 4,
+    "nombre": "Curación",
+    "porcentaje": 100,
+    "problema_estado": "Rejuvenecido"
+  },
+  {
+    "coste": 3,
+    "danio": 23,
+    "descripcion": "Humo tóxico que envenena al enemigo",
+    "icono": "image_poison",
+    "id": 6,
+    "nombre": "Veneno",
+    "porcentaje": 10,
+    "problema_estado": "Envenedado"
+  },
+  {
+    "coste": 15,
+    "danio": 0,
+    "descripcion": "Cura todos los problemas de estado ",
+    "icono": "image_water",
+    "id": 7,
+    "nombre": "Detoxificar",
+    "porcentaje": 0,
+    "problema_estado": ""
+  }
+]
